@@ -6,7 +6,6 @@ import acq.IBuilding;
 import acq.ISensor;
 
 public class Building implements IBuilding {
-
   /**
    * Name of the building
    */

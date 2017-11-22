@@ -7,7 +7,6 @@ import acq.ISensorType;
 import acq.IPoint;
 
 public class Sensor implements ISensor {
-
   /**
    * Name of the sensor
    */

@@ -3,7 +3,6 @@ package domain;
 import acq.IPoint;
 
 public class Point implements IPoint {
-
   /**
    * Timestamp in milliseconds
    */
